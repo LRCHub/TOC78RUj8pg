@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Jumping Machine (跳樓機)",
+  "base_artist": "LBI利比",
+  "createdAt": "2025-12-28T14:53:18.304986Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jumping Machine (跳楼机)",
+      "artist": "LBI",
+      "has_synced": true,
+      "path": "select/01_Jumping_Machine_(跳楼机)_LBI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jumping Machine (跳樓機)",
+      "artist": "LBI利比",
+      "has_synced": true,
+      "path": "select/02_Jumping_Machine_(跳樓機)_LBI利比.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jumping Machine (跳楼机) - 伴奏",
+      "artist": "LBI利比",
+      "has_synced": false,
+      "path": "select/03_Jumping_Machine_(跳楼机)_-_伴奏_LBI利比.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "利比《跳楼机》(官方歌词MV)｜LBI - Jumping Machine (Official Lyric Video)",
+      "artist": "LBI利比",
+      "has_synced": true,
+      "path": "select/04_利比《跳楼机》(官方歌词MV)_LBI_-_Jumping_Machine_(Official_Lyric_Video)_LBI利比.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "跳樓機 Jumping Machine",
+      "artist": "Priscilla Abby",
+      "has_synced": true,
+      "path": "select/05_跳樓機_Jumping_Machine_Priscilla_Abby.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Jumping Machine (跳楼机)",
+      "artist": "LBI利比",
+      "has_synced": false,
+      "path": "select/pl_01_Jumping_Machine_(跳楼机)_LBI利比.txt"
+    }
+  ]
+}
